@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Simple Make Reinforced Barrel</name>
-	<author>BBBBilly</author>
-	<packageId>bbbbilly.simplemakereinforcedbarrel</packageId>
+	<name>Craftable Reinforced Barrel</name>
+	<authors>
+    <li>draeath</li>
+    <li>BBBBilly</li>
+  </authors>
+	<packageId>draeath.craftablereinforcedbarrel</packageId>
 	<supportedVersions>
 		<li>1.4</li>
     <li>1.5</li>
 	</supportedVersions>
-	<description>This mod allows you to produce reinforced barrel by yourself. This is an improved version, using cheaper materials to make a hollow barrel.</description>
+	<description>This mod allows you to produce reinforced barrel by yourself. This is an improved version, using cheaper materials to make a hollow barrel. This version has been tweaked further.</description>
     <incompatibleWith>
       <li>bbbbilly.makereinforcedbarrel</li>
+      <li>bbbbilly.simplemakereinforcedbarrel</li>
     </incompatibleWith>
 </ModMetaData>

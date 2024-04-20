@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="ReinforcedBarrel"]/statBases/MarketValue</xpath>
 	  <value>
-      <MarketValue>150</MarketValue>
+      <!-- less than default, actually less than the steel+work=value ratio of a raw component (32/22.8)... at that ratio it would be 533.33 repeating. -->
+      <MarketValue>500</MarketValue>
 	  </value>
   </Operation>
-
 </Patch>

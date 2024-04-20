@@ -9,7 +9,7 @@
     <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
     <effectWorking>Cook</effectWorking>
     <soundWorking>Recipe_Machining</soundWorking>
-    <workAmount>9000</workAmount>
+    <workAmount>5000</workAmount>
     <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
     <recipeUsers>
       <li>TableMachining</li>
@@ -21,7 +21,7 @@
             <li>Steel</li>
           </thingDefs>
         </filter>
-        <count>60</count>
+        <count>200</count>
       </li>
     </ingredients>
     <fixedIngredientFilter>
@@ -34,7 +34,7 @@
     </products>
     <researchPrerequisite>Machining</researchPrerequisite>
     <skillRequirements>
-      <Crafting>7</Crafting>
+      <Crafting>6</Crafting>
     </skillRequirements>
     <workSkill>Crafting</workSkill>
   </RecipeDef>
