@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Simple Make Reinforced Barrel</name>
+	<author>BBBBilly</author>
+	<packageId>bbbbilly.simplemakereinforcedbarrel</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+    <li>1.5</li>
+	</supportedVersions>
+	<description>This mod allows you to produce reinforced barrel by yourself. This is an improved version, using cheaper materials to make a hollow barrel.</description>
+    <incompatibleWith>
+      <li>bbbbilly.makereinforcedbarrel</li>
+    </incompatibleWith>
+</ModMetaData>

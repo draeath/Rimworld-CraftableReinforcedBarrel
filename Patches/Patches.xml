@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="ReinforcedBarrel"]/statBases/MarketValue</xpath>
+	  <value>
+      <MarketValue>150</MarketValue>
+	  </value>
+  </Operation>
+
+</Patch>
